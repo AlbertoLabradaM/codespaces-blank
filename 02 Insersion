@@ -1,0 +1,8 @@
+use empresa
+insert into departamento(idDepartament, nombre)
+    values (1,'Sistemas'),
+    (2,'Produccion'),
+    (3,'Ventas')
+
+INSERT into departamento(idDepartamento,nombre)
+    values (4,Mercadotecnia)
